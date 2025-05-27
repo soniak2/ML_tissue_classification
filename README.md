@@ -6,9 +6,9 @@ This project explores the use of machine learning techniques to classify tissue 
 
 ## Data Description
 
-The dataset includes a spectral image (`tissue.tiff`) containing tissue samples collected from multiple patients. Each pixel in the image represents a location in the tissue with associated spectral measurements. These measurements serve as the input features for the classification model.
+The dataset includes a spectral image (`tissue.jpg`) containing tissue samples collected from multiple patients. Each pixel in the image represents a location in the tissue with associated spectral measurements. These measurements serve as the input features for the classification model.
 
-![tissue](tissue.tif)
+![tissue](tissue.jpg)
 
 ## Methodology
 
